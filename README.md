@@ -1,6 +1,6 @@
 # Ninja-fruit-Replica
 
-System of game 
+System of game.
 
 ![](https://media.discordapp.net/attachments/476425347928424458/717257357981384704/Ninja-fruit-ReplicaUML.png?width=595&height=595)
 
